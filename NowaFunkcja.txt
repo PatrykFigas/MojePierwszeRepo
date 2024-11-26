@@ -1,3 +1,6 @@
 Przykładowy tekst.
 Plik nr 2.
 Prezentacja zmian.
+
+
+NOWE ZMIANY DO ZADANIA Z ISSUE
